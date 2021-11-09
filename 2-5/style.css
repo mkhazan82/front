@@ -1,0 +1,156 @@
+:lang(fa){
+    direction: rtl;
+}
+.btn
+{
+    border-radius:  20px;
+    height:         40px;
+    margin:			8px 0px 0px 8px; 
+    min-width:      64px;
+    padding:        0px 24px;
+    display:		inline-block;
+	vertical-align:	middle;
+	font-size:		14px;
+	line-height:	38px; 
+	font-weight:	500;	
+	text-align:		center;
+}
+.btn:hover
+{
+    cursor: pointer;
+}
+
+.btn-outlined
+{
+    border-color:   #79747E;
+    background-color: #FFFBFE;
+    color: #6750A4;
+    background: none;
+}
+.btn-outlined:enabled
+{
+    
+}
+.btn-outlined:hover
+{
+    outline-color: #6750A4;
+}
+.btn-outlined:focus
+{
+    outline-color: #6750A4;
+}
+.btn-outlined:active
+{
+    outline-color: #79747E;
+}
+.btn-outlined:disabled
+{
+    outline-color: #1E192B;
+}
+
+
+
+
+
+.btn-filledtonal
+{
+    border: none;
+    background-color: #EADDFF;
+    color: #1E192B;
+}
+.btn-filledtonal:enabled
+{
+    
+}
+.btn-filledtonal:hover
+{
+    background-color: #1E192B;
+    color: #1E192B;
+}
+.btn-filledtonal:focus
+{
+    background-color: #1E192B;
+    color: #1E192B;
+}
+.btn-filledtonal:active
+{
+    background-color: #1E192B;
+    color: #1E192B;
+}
+.btn-filledtonal:disabled
+{
+    background-color: #1E192B;
+    color: #1E192B;
+}
+
+
+
+
+
+
+.btn-filled
+{
+    border: none;
+    background-color: #6750A4;
+    color: #FFFFFF;
+}
+.btn-filled:enabled
+{
+    
+}
+.btn-filled:hover
+{
+    background-color: #6750A4;
+    color: #6750A4;
+}
+.btn-filled:focus
+{
+    background-color: #6750A4;
+    color: #6750A4;
+}
+.btn-filled:active
+{
+    background-color: #6750A4;
+    color: #6750A4;
+}
+.btn-filled:disabled
+{
+    background-color: #1E192B;
+    color: #1E192B;
+}
+
+
+
+
+
+
+.btn-text
+{
+    color: #6750A4;
+    background: none;
+    border: none;
+    padding: 0 12 px;
+}
+.btn-text:enabled
+{
+    color: #6750A4;
+}
+.btn-text:hover
+{
+    background-color: #6750A4;
+    color: #6750A4;
+}
+.btn-text:focus
+{
+    background-color: #79747E;
+    color: #79747E;
+}
+.btn-text:active
+{
+    background-color: #6750A4;
+    color: #6750A4;
+}
+.btn-text:disabled
+{
+    color: #1E192B;
+}
